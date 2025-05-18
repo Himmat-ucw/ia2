@@ -1,0 +1,68 @@
+---
+title: "Home"
+project:
+  type: website
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Resume"
+        file: resume.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Skills"
+        file: skills.qmd
+      - text: "Contact"
+        file: contact.qmd
+      - text: "Community service"
+        file: service.qmd
+
+format:
+  html:
+    toc: false
+    css: styles11.css
+---
+
+# 👋 Welcome to My Portfolio
+
+Hello! I'm **Himmat Singh Grewal**, a passionate and detail-oriented professional with experience in:
+
+- 🔹 Business Analytics
+- 🔹 Project Research & Reporting
+- 🔹 Safety & First Aid Certifications
+- 🔹 Quarto-based Web Projects
+
+This website is a showcase of my:
+
+- 📄 [Resume](resume.qmd)
+- 💼 [Projects](projects.qmd)
+- 🧠 [Skills & Certifications](skills.qmd)
+- 🧭 [Leadership & Community Service](service.qmd)
+- 📬 [Contact Information](contact.qmd)
+
+---
+
+## 🌟 About Me
+
+I specialize in data-driven decision-making, creative problem-solving, and clear communication. Whether it’s preparing a business report, analyzing trends, or building a clean Quarto portfolio, I love making complex information understandable and impactful.
+
+---
+
+## 🚀 Highlights
+
+- 📝 Completed a business research project on Netflix ad strategies using PESTELE & SWOT
+- 📊 Built interactive dashboards using Quarto & Plotly
+- ✅ Certified in Occupational First Aid Level 1 & First Safety License
+- 📢 Actively involved in community service and leadership
+
+---
+
+## 🔗 Explore
+
+Use the navigation menu above to explore each section of my portfolio, or head directly to:
+
+- 📄 [Resume](resume.qmd)
+- 💼 [Projects](projects.qmd)
+- 📬 [Contact](contact.qmd)
+
+Thanks for visiting!

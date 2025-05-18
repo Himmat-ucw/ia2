@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "Index.html",
+    "href": "Index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello! I’m Himmat Singh Grewal, a passionate and detail-oriented professional with experience in:\n\n🔹 Business Analytics\n🔹 Project Research & Reporting\n🔹 Safety & First Aid Certifications\n🔹 Quarto-based Web Projects\n\nThis website is a showcase of my:\n\n📄 Resume\n💼 Projects\n🧠 Skills & Certifications\n🧭 Leadership & Community Service\n📬 Contact Information\n\n\n\n\nI specialize in data-driven decision-making, creative problem-solving, and clear communication. Whether it’s preparing a business report, analyzing trends, or building a clean Quarto portfolio, I love making complex information understandable and impactful.\n\n\n\n\n\n🧠 Conducted an in-depth business research project on Netflix’s ad strategy using PESTELE & SWOT\n📈 Developed interactive dashboards with Quarto and Plotly\n✅ Certified in Occupational First Aid Level 1 & First Safety License\n❤️ Contributed to various community service and leadership initiatives\n\n\n\n\n\nUse the menu above or jump straight to a section that interests you.\nThanks for stopping by — I hope you enjoy exploring my work!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "🎯 Quick Access:\n📥 Download Full Resume (PDF link placeholder)\n\n\n\nI am an MBA candidate with a background in e-commerce, digital marketing, and customer service. I bring a practical understanding of business operations, strong communication skills, and a growth mindset focused on developing expertise in finance, strategy, and data analysis.\n\n\n\n\nMaster of Business Administration (MBA)\nUniversity Canada West, Vancouver, BC — Expected 2025\nCertificate in Financial Accounting\nUniversity Canada West, Vancouver, BC — March 2024\nPost Graduate Diploma in Computer Applications\nGGN Khalsa College, Ludhiana, India — July 2023\nBachelor’s Degree in E-commerce & Digital Marketing\nGGN Khalsa College, Ludhiana, India — August 2022\n\n\n\n\nCustomer Service Representative\nLenovo Laptop Store, Ludhiana, India — Aug 2022 – Feb 2023\n- Responded to customer inquiries with professionalism and empathy\n- Maintained calm under pressure to resolve customer conflicts\n- Provided tailored product recommendations based on customer preferences\n\n\n\n\n\n🗣️ Customer Service & Communication\n\n🧠 Strategic Thinking & Business Analysis\n\n💼 Microsoft Office Suite (Excel, Word, PowerPoint)\n\n📊 Financial Literacy (Basic Accounting)\n\n🌐 E-commerce & Digital Marketing\n\n🤝 Teamwork & Problem Solving\n\n\n\n\n\nReady to connect or collaborate?\nVisit my Contact Page.\n\nThanks for viewing my resume!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Explore a selection of my projects across data analytics, business strategy, and web design.\n\n\n\n\n\n📍 Objective: Visualize and analyze patterns in Toronto fire incidents by neighborhood, time, and cause.\n📊 Tool Used: Tableau Public\n🧠 Insights:\n\nDowntown areas had the highest frequency of incidents.\nCooking-related fires were the most common residential cause.\nSpike in winter months linked to heating appliances.\n\n🔗 View Interactive Dashboard: 👉 Toronto Fire Incidents Tableau Dashboard\n\n\n“This project helped identify spatial and seasonal fire risk trends to support awareness campaigns and resource allocation.”\n\n\n\n\n\n📌 Objective: Analyze and improve the performance of Netflix’s ad-supported plan.\n🛠 Tools: SWOT, PESTELE, Quarto.\n📈 Outcome: Delivered a data-driven campaign proposal with actionable insights for market positioning.\n\n\n\n\n\n\n🔧 Built With: Quarto + Plotly.\n💡 Features: Real-time sales data, filterable views, and exportable reports.\n🗂 Used For: Weekly performance reviews and executive presentations.\n\n\n\n\n\n\n🧰 Tools: Excel, Power BI.\n📊 Goal: Identified trends in Sales of proucts as per demographics, and popularity.\n✅ Result: showcase all the data of products sales\n\n\n\n\n\n\n🎨 Built Using: Quarto, HTML/CSS, Font Awesome.\n🌍 Features: Multi-page layout, responsive design, embedded interactive charts and blog section.\n🔗 View Source on GitHub\n\n\n\n\nWant to collaborate or know more about any of these? Contact me."
+  },
+  {
+    "objectID": "projects.html#project-1-marketing-strategy-for-netflix",
+    "href": "projects.html#project-1-marketing-strategy-for-netflix",
+    "title": "Projects",
+    "section": "",
+    "text": "Objective: Analyze ad-supported plan performance.\nTools Used: Quarto, SWOT, PESTELE, Google Trends.\nOutcome: Presented campaign proposal with data insights."
+  },
+  {
+    "objectID": "projects.html#project-2-interactive-data-dashboard",
+    "href": "projects.html#project-2-interactive-data-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Built with Plotly and Quarto.\nLive preview of sales performance.\nUsed in weekly business reviews.\n\nMore projects coming soon!"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Welcome to a snapshot of my technical expertise, certifications, and core professional skills that empower me to deliver high-impact results in both team and individual settings.\n\n\n\n\n\n💻 Programming: R, Python, SQL\n\n📄 Data Reporting: Quarto, R Markdown\n\n🌐 Version Control: Git & GitHub\n\n📊 Data Tools: Excel, Tableau, Power BI\n\n\n\n\n\n\n\n\n✅ Occupational First Aid Level 1\n\n✅ First Safety License\n\n📚 Google Data Analytics (In Progress)\n\n\n\n\n\n\n\n\n🤝 Team Collaboration\n\n🗣️ Clear Communication\n\n⏳ Time Management"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "💻 Programming: R, Python, SQL\n\n📄 Data Reporting: Quarto, R Markdown\n\n🌐 Version Control: Git & GitHub\n\n📊 Data Tools: Excel, Tableau, Power BI"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "✅ Occupational First Aid Level 1\n\n✅ First Safety License\n\n📚 Google Data Analytics (In Progress)"
+  },
+  {
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "🤝 Team Collaboration\n\n🗣️ Clear Communication\n\n⏳ Time Management"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to opportunities, collaborations, or a friendly chat. Feel free to reach out through any of the channels below:\n\n\n\n\n📧 Email: Say hi\n– 💼 LinkedIn: Himmat Grewal\n🌐 GitHub: See what I’m building\n\n\n\n\n\nPrefer to send a quick message? Just fill out the form below — I’ll get back to you as soon as possible.\n\nName: \nEmail: \nMessage:\n\n\nSend Message"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Community Service",
+    "section": "",
+    "text": "Giving back to the community has been a cornerstone of my personal and professional development. Below are highlights of my most meaningful service experiences.\n\n\n\n\n📦 Serving meals on a weekly basis\n\n⏱️ Logged over 50 volunteer hours\n\n💞 Supported community members facing food insecurity\n\n\n\n\n\n\n🎨 Designed posters and managed social media outreach\n\n🧹 Organized clean-up events\n\n🧑‍🤝‍🧑 Led a team of 10 volunteers\n\n💰 Raised $500+ for local environmental causes\n\n🗣️ Participated in environmental advocacy workshops\n\n📊 Conducted community surveys to assess needs\n\n\n\n\n\n\n📚 Tutored kids in India\n\n🧠 Designed personalized study plans and materials\n\n📈 Helped improve grades by an average of 20%\n\n🤝 Collaborated with teachers and parents\n\n🌟 Participated in community outreach and engagement"
+  },
+  {
+    "objectID": "service.html#food-bank-volunteer",
+    "href": "service.html#food-bank-volunteer",
+    "title": "Community Service",
+    "section": "",
+    "text": "📦 Serving meals on a weekly basis\n\n⏱️ Logged over 50 volunteer hours\n\n💞 Supported community members facing food insecurity"
+  },
+  {
+    "objectID": "service.html#sustainability-campaign",
+    "href": "service.html#sustainability-campaign",
+    "title": "Community Service",
+    "section": "",
+    "text": "Created posters and social media content.\nOrganized campus-wide clean-up events.\nEngaged 200+ students in sustainability efforts.\nLed a team of 10 volunteers.\nRaised $500 for local environmental charities.\nParticipated in workshops on environmental advocacy.\nCollaborated with local businesses for sponsorships.\nDeveloped a recycling program for campus.\nPresented findings at a local environmental conference.\nReceived recognition from the university for outstanding service.\nParticipated in a panel discussion on sustainability.\nConducted surveys to assess community needs.\nDeveloped a website to promote sustainability initiatives.\nEngaged with local government on sustainability policies."
+  },
+  {
+    "objectID": "service.html#tutoring-program",
+    "href": "service.html#tutoring-program",
+    "title": "Community Service",
+    "section": "",
+    "text": "Tutored underprivileged students in math and science.\nDeveloped personalized study plans.\nImproved student grades by an average of 20%.\nOrganized study groups and workshops.\nMentored new tutors and provided training.\nCreated educational materials and resources.\nCollaborated with teachers to identify student needs.\nParticipated in community outreach programs.\nEngaged with parents to encourage student participation."
+  },
+  {
+    "objectID": "Index.html#about-me",
+    "href": "Index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I specialize in data-driven decision-making, creative problem-solving, and clear communication. Whether it’s preparing a business report, analyzing trends, or building a clean Quarto portfolio, I love making complex information understandable and impactful."
+  },
+  {
+    "objectID": "Index.html#highlights",
+    "href": "Index.html#highlights",
+    "title": "Home",
+    "section": "",
+    "text": "📝 Completed a business research project on Netflix ad strategies using PESTELE & SWOT\n📊 Built interactive dashboards using Quarto & Plotly\n✅ Certified in Occupational First Aid Level 1 & First Safety License\n📢 Actively involved in community service and leadership"
+  },
+  {
+    "objectID": "Index.html#explore",
+    "href": "Index.html#explore",
+    "title": "Home",
+    "section": "",
+    "text": "Use the navigation menu above to explore each section of my portfolio, or head directly to:\n\n📄 Resume\n💼 Projects\n📬 Contact\n\nThanks for visiting!"
+  },
+  {
+    "objectID": "Index.html#highlights-achievements",
+    "href": "Index.html#highlights-achievements",
+    "title": "Home",
+    "section": "",
+    "text": "🧠 Conducted an in-depth business research project on Netflix’s ad strategy using PESTELE & SWOT\n📈 Developed interactive dashboards with Quarto and Plotly\n✅ Certified in Occupational First Aid Level 1 & First Safety License\n❤️ Contributed to various community service and leadership initiatives"
+  },
+  {
+    "objectID": "Index.html#lets-connect",
+    "href": "Index.html#lets-connect",
+    "title": "Home",
+    "section": "",
+    "text": "Use the menu above or jump straight to a section that interests you.\nThanks for stopping by — I hope you enjoy exploring my work!"
+  },
+  {
+    "objectID": "resume.html#about-me",
+    "href": "resume.html#about-me",
+    "title": "Resume",
+    "section": "",
+    "text": "I am an MBA candidate with a background in e-commerce, digital marketing, and customer service. I bring a practical understanding of business operations, strong communication skills, and a growth mindset focused on developing expertise in finance, strategy, and data analysis."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Master of Business Administration (MBA)\nUniversity Canada West, Vancouver, BC — Expected 2025\nCertificate in Financial Accounting\nUniversity Canada West, Vancouver, BC — March 2024\nPost Graduate Diploma in Computer Applications\nGGN Khalsa College, Ludhiana, India — July 2023\nBachelor’s Degree in E-commerce & Digital Marketing\nGGN Khalsa College, Ludhiana, India — August 2022"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Customer Service Representative\nLenovo Laptop Store, Ludhiana, India — Aug 2022 – Feb 2023\n- Responded to customer inquiries with professionalism and empathy\n- Maintained calm under pressure to resolve customer conflicts\n- Provided tailored product recommendations based on customer preferences"
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "🗣️ Customer Service & Communication\n\n🧠 Strategic Thinking & Business Analysis\n\n💼 Microsoft Office Suite (Excel, Word, PowerPoint)\n\n📊 Financial Literacy (Basic Accounting)\n\n🌐 E-commerce & Digital Marketing\n\n🤝 Teamwork & Problem Solving"
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume",
+    "section": "",
+    "text": "Ready to connect or collaborate?\nVisit my Contact Page.\n\nThanks for viewing my resume!"
+  },
+  {
+    "objectID": "contact.html#contact-info",
+    "href": "contact.html#contact-info",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email: Say hi\n– 💼 LinkedIn: Himmat Grewal\n🌐 GitHub: See what I’m building"
+  },
+  {
+    "objectID": "contact.html#message-me-directly",
+    "href": "contact.html#message-me-directly",
+    "title": "Contact",
+    "section": "",
+    "text": "Prefer to send a quick message? Just fill out the form below — I’ll get back to you as soon as possible.\n\nName: \nEmail: \nMessage:\n\n\nSend Message"
+  },
+  {
+    "objectID": "service.html#sustainability-campaign-leader",
+    "href": "service.html#sustainability-campaign-leader",
+    "title": "Community Service",
+    "section": "",
+    "text": "🎨 Designed posters and managed social media outreach\n\n🧹 Organized clean-up events\n\n🧑‍🤝‍🧑 Led a team of 10 volunteers\n\n💰 Raised $500+ for local environmental causes\n\n🗣️ Participated in environmental advocacy workshops\n\n📊 Conducted community surveys to assess needs"
+  },
+  {
+    "objectID": "service.html#tutoring-mentoring-program",
+    "href": "service.html#tutoring-mentoring-program",
+    "title": "Community Service",
+    "section": "",
+    "text": "📚 Tutored kids in India\n\n🧠 Designed personalized study plans and materials\n\n📈 Helped improve grades by an average of 20%\n\n🤝 Collaborated with teachers and parents\n\n🌟 Participated in community outreach and engagement"
+  },
+  {
+    "objectID": "projects.html#toronto-fire-incidents-dashboard-tableau",
+    "href": "projects.html#toronto-fire-incidents-dashboard-tableau",
+    "title": "Projects",
+    "section": "",
+    "text": "📍 Objective: Visualize and analyze patterns in Toronto fire incidents by neighborhood, time, and cause.\n📊 Tool Used: Tableau Public\n🧠 Insights:\n\nDowntown areas had the highest frequency of incidents.\nCooking-related fires were the most common residential cause.\nSpike in winter months linked to heating appliances.\n\n🔗 View Interactive Dashboard: 👉 Toronto Fire Incidents Tableau Dashboard\n\n\n“This project helped identify spatial and seasonal fire risk trends to support awareness campaigns and resource allocation.”"
+  },
+  {
+    "objectID": "projects.html#marketing-strategy-for-netflix",
+    "href": "projects.html#marketing-strategy-for-netflix",
+    "title": "Projects",
+    "section": "",
+    "text": "📌 Objective: Analyze and improve the performance of Netflix’s ad-supported plan.\n🛠 Tools: SWOT, PESTELE, Quarto.\n📈 Outcome: Delivered a data-driven campaign proposal with actionable insights for market positioning."
+  },
+  {
+    "objectID": "projects.html#interactive-sales-dashboard",
+    "href": "projects.html#interactive-sales-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "🔧 Built With: Quarto + Plotly.\n💡 Features: Real-time sales data, filterable views, and exportable reports.\n🗂 Used For: Weekly performance reviews and executive presentations."
+  },
+  {
+    "objectID": "projects.html#student-enrollment-analysis",
+    "href": "projects.html#student-enrollment-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "🧰 Tools: Excel, Power BI.\n📊 Goal: Identified trends in Sales of proucts as per demographics, and popularity.\n✅ Result: showcase all the data of products sales"
+  },
+  {
+    "objectID": "projects.html#portfolio-website-with-quarto",
+    "href": "projects.html#portfolio-website-with-quarto",
+    "title": "Projects",
+    "section": "",
+    "text": "🎨 Built Using: Quarto, HTML/CSS, Font Awesome.\n🌍 Features: Multi-page layout, responsive design, embedded interactive charts and blog section.\n🔗 View Source on GitHub\n\n\n\n\nWant to collaborate or know more about any of these? Contact me."
+  },
+  {
+    "objectID": "projects.html#resume-analyzer-app-mockup",
+    "href": "projects.html#resume-analyzer-app-mockup",
+    "title": "Projects",
+    "section": "",
+    "text": "🤖 Concept: NLP-powered app that gives real-time feedback on uploaded resumes.\n💼 Built With: Python (spaCy), Streamlit.\n📊 Outcome: Simulated impact of resume changes on keyword relevance and job match."
+  },
+  {
+    "objectID": "projects.html#hackathon-smart-campus-prototype",
+    "href": "projects.html#hackathon-smart-campus-prototype",
+    "title": "Projects",
+    "section": "",
+    "text": "🚀 Team Role: Project lead and backend developer.\n📱 Built: IoT-powered energy dashboard and notification system for classrooms.\n🥈 Achievement: Placed 2nd out of 20+ teams.\n\n\n\n\nWant to collaborate or know more about any of these? Contact me."
+  },
+  {
+    "objectID": "projects.html#prouct-sales-analysis",
+    "href": "projects.html#prouct-sales-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "🧰 Tools: Excel, Power BI.\n📊 Goal: Identified trends in Sales of proucts as per demographics, and popularity.\n✅ Result: showcase all the data of products sales"
+  }
+]
